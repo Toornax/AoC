@@ -1,0 +1,12 @@
+[package]
+name = "aoc-d7"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "exo1"
+path = "src/exo1.rs"
+
+[[bin]]
+name = "exo2"
+path = "src/exo2.rs"

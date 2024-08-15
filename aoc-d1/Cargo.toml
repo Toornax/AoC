@@ -1,0 +1,14 @@
+[package]
+name = "aoc-d1"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "exo1"
+path = "src/exo1.rs"
+
+[[bin]]
+name = "exo2"
+path = "src/exo2.rs"
